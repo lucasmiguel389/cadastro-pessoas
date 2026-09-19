@@ -20,7 +20,7 @@ O sistema roda no terminal e guarda os dados em um arquivo `.txt`.
 1. Instale o [Python](https://www.python.org/downloads/)
 2. Clone este repositório:
 ```
-   git clone URL-DO-SEU-REPOSITORIO
+   git clone https://github.com/lucasmiguel389/cadastro-pessoas.git
 ```
 3. Entre na pasta do projeto:
 ```
